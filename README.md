@@ -34,7 +34,7 @@ This project predicts the price of used cars using a machine learning model. It 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/mgunawardhana/car_price_prediction.git](https://github.com/mgunawardhana/car_price_prediction.git)
+    git clone https://github.com/mgunawardhana/car_price_prediction.git
     cd car_price_prediction
     ```
 
