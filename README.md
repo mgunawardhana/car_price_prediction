@@ -1,5 +1,7 @@
 # Car Price Prediction
 
+<img width="1919" height="1079" alt="Screenshot 2025-07-30 111746" src="https://github.com/user-attachments/assets/3d546617-9f82-47e2-ab22-5b4d1b09132a" />
+
 This project predicts the price of used cars using a machine learning model. It includes a complete pipeline from data preprocessing and exploratory data analysis to model training, evaluation, and deployment with a user-friendly web interface.
 
 ## Table of Contents
